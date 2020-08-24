@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetServo_1_3 Pin=Servo_2-3
+Removed Pin From Net: NetName=NetServo_1_3 Pin=Servo_3-3
+Removed Pin From Net: NetName=NetServo_1_3 Pin=Servo_4-3
+Added Pin To Net: NetName=NetU1_7 Pin=Servo_2-3
+Added Pin To Net: NetName=NetU1_8 Pin=Servo_3-3
+Added Pin To Net: NetName=NetU1_9 Pin=Servo_4-3
+Change Net Name : Old Net Name=NetU1_7 New Net Name=NetServo_2_3
+Change Net Name : Old Net Name=NetU1_8 New Net Name=NetServo_3_3
+Change Net Name : Old Net Name=NetU1_9 New Net Name=NetServo_4_3

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=P1-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P1-2
+Removed Pin From Net: NetName=NetP1_1 Pin=P2-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P2-2
+Removed Pin From Net: NetName=NetP1_1 Pin=P3-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P3-2
+Removed Pin From Net: NetName=NetP1_1 Pin=p4-1
+Removed Pin From Net: NetName=NetP1_2 Pin=p4-2
+Change Component Designator: OldDesignator=P1 NewDesignator=Servo_1
+Change Component Designator: OldDesignator=P2 NewDesignator=Servo_2
+Change Component Designator: OldDesignator=P3 NewDesignator=Servo_3
+Change Component Designator: OldDesignator=p4 NewDesignator=Servo_4
+Change Component Designator: OldDesignator=P5 NewDesignator=LED_1
+Change Component Designator: OldDesignator=P6 NewDesignator=LED_2
+Change Component Designator: OldDesignator=P7 NewDesignator=LED_3
+Change Component Designator: OldDesignator=P8 NewDesignator=I/O_1
+Change Component Designator: OldDesignator=P9 NewDesignator=I/O_2
+Added Pin To Net: NetName=NetP1_2 Pin=Servo_1-1
+Added Pin To Net: NetName=NetP1_1 Pin=Servo_1-2
+Added Pin To Net: NetName=NetP1_2 Pin=Servo_2-1
+Added Pin To Net: NetName=NetP1_1 Pin=Servo_2-2
+Added Pin To Net: NetName=NetP1_2 Pin=Servo_3-1
+Added Pin To Net: NetName=NetP1_1 Pin=Servo_3-2
+Added Pin To Net: NetName=NetP1_2 Pin=Servo_4-1
+Added Pin To Net: NetName=NetP1_1 Pin=Servo_4-2
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetServo_1_2
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetI/O_1_1
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetServo_1_3
+Change Net Name : Old Net Name=NetP5_2 New Net Name=NetLED_1_2
+Change Net Name : Old Net Name=NetP6_2 New Net Name=NetLED_2_2
+Change Net Name : Old Net Name=NetP7_2 New Net Name=NetLED_3_2
+Change Net Name : Old Net Name=NetP8_2 New Net Name=NetI/O_1_2
+Change Net Name : Old Net Name=NetP9_2 New Net Name=NetI/O_2_2

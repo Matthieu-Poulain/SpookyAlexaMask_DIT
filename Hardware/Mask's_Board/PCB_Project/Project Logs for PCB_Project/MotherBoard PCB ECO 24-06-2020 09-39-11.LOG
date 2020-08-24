@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=U NewDesignator=LM324N
+Added Component: Designator=LM_I/O_1(HDR2X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LM_I/O_2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU_5 Pin=LM_I/O_1-1
+Added Pin To Net: NetName=NetU_10 Pin=LM_I/O_1-2
+Added Pin To Net: NetName=NetU_6 Pin=LM_I/O_1-3
+Added Pin To Net: NetName=NetU_9 Pin=LM_I/O_1-4
+Added Pin To Net: NetName=NetU_12 Pin=LM_I/O_2-1
+Added Pin To Net: NetName=NetU_13 Pin=LM_I/O_2-2
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetLM324N_2
+Change Net Name : Old Net Name=NetServo_1_2 New Net Name=NetLM324N_4
+Change Net Name : Old Net Name=NetU_5 New Net Name=NetLM324N_5
+Change Net Name : Old Net Name=NetU_6 New Net Name=NetLM324N_6
+Change Net Name : Old Net Name=NetU_9 New Net Name=NetLM324N_9
+Change Net Name : Old Net Name=NetU_10 New Net Name=NetLM324N_10
+Change Net Name : Old Net Name=NetU_12 New Net Name=NetLM324N_12
+Change Net Name : Old Net Name=NetU_13 New Net Name=NetLM324N_13
+Added Pin To Net: NetName=NetLM324N_7 Pin=LM324N-7
+Added Pin To Net: NetName=NetLM324N_7 Pin=LM_I/O_1-5
+Added Net: Name=NetLM324N_7
+Added Pin To Net: NetName=NetLM324N_8 Pin=LM324N-8
+Added Pin To Net: NetName=NetLM324N_8 Pin=LM_I/O_1-6
+Added Net: Name=NetLM324N_8
+Added Pin To Net: NetName=NetLM324N_14 Pin=LM324N-14
+Added Pin To Net: NetName=NetLM324N_14 Pin=LM_I/O_2-3
+Added Net: Name=NetLM324N_14
+Added Member To Class: ClassName=MotherBoard Member=Component LM_I/O_1 Header 3X2
+Added Member To Class: ClassName=MotherBoard Member=Component LM_I/O_2 Header 3
